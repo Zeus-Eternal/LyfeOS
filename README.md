@@ -11,7 +11,7 @@ For full installation instructions and workflow descriptions, see
 
 ## Quick Start
 
-Create a `.env` file with your secrets (see `docs/liberation-stack-guide.md` for variables) then run:
+Copy `.env.example` to `.env` and fill in your secrets (see `docs/liberation-stack-guide.md` for variables) then run:
 
 ```bash
 docker compose up -d

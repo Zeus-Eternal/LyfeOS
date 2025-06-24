@@ -24,10 +24,11 @@ All data is stored locally in DuckDB by default. Optional integrations with Noti
 
 ## Docker Compose Environment
 
-Create a `docker-compose.yml` file with the following configuration:
+Create a `docker-compose.yml` file with the following configuration and copy
+`.env.example` to `.env` to provide the required environment variables:
 
 ```yaml
-version: "3.8"
+
 services:
   n8n:
     image: n8nio/n8n:latest

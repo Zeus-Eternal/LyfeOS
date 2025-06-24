@@ -4,6 +4,7 @@ labs/__pycache__/
 vw_data/
 gitea/
 __pycache__/
+.env
 *.png
 *.jpg
 *.svg
