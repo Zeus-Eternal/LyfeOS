@@ -28,6 +28,7 @@ Create a `docker-compose.yml` file with the following configuration and copy
 `.env.example` to `.env` to provide the required environment variables:
 
 ```yaml
+
 services:
   n8n:
     image: n8nio/n8n:latest
