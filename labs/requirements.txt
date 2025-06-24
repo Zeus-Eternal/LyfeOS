@@ -1,0 +1,9 @@
+duckdb>=0.10
+duckdb-vector
+vaderSentiment
+sentence-transformers
+matplotlib
+rich
+steghide-python
+cryptography
+agecli
